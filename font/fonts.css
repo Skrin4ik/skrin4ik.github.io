@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Value Sans Pro';
+    src: url('ValueSansPro-Bold.eot');
+    src: local('Value Sans Pro Bold'), local('ValueSansPro-Bold'),
+        url('ValueSansPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('ValueSansPro-Bold.woff2') format('woff2'),
+        url('ValueSansPro-Bold.woff') format('woff'),
+        url('ValueSansPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Value Sans Pro';
+    src: url('ValueSansPro-Medium.eot');
+    src: local('Value Sans Pro Medium'), local('ValueSansPro-Medium'),
+        url('ValueSansPro-Medium.eot?#iefix') format('embedded-opentype'),
+        url('ValueSansPro-Medium.woff2') format('woff2'),
+        url('ValueSansPro-Medium.woff') format('woff'),
+        url('ValueSansPro-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto-Regular'), local('Roboto-Regular'),
+        url('Roboto-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto-Medium'), local('Roboto-Medium'),
+        url('Roboto-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: medium;
+}
